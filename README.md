@@ -1,4 +1,4 @@
-Then # 💫 About Me:
+# 💫 About Me:
 Hi, I'm Shaurya, a 16-year-old with a passion for programming and a deep interest in Artificial Intelligence, Machine Learning, and app development. I love exploring new technologies and building innovative solutions that solve real-world problems. My journey in tech has just begun, but I'm eager to learn, create, and make an impact in the world of software development.
 
 
